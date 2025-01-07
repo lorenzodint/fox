@@ -5,7 +5,7 @@ import requests
 st.set_page_config(layout="wide")
 
 files = [
-    st.secrets['FUNZIONI'],
+    # st.secrets['FUNZIONI'],
     st.secrets['HOME'],
 ]
 modules = {}
